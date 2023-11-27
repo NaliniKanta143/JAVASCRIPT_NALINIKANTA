@@ -17,4 +17,9 @@
 
 let lastlogin1 = ""
 let bolaencheak = Boolean(lastlogin1)
-console.log(bolaencheak);
+//console.log(bolaencheak);
+
+//*******operations********** */
+let value = 2
+let negvalue = -value
+console.log(negvalue);
